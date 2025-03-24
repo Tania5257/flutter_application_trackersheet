@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('ListView Example Tracker Sheet 3'),
-          backgroundColor: Colors.blue, // Greenish header
+          backgroundColor: Colors.blue, 
         ),
         body: ItemList(),
       ),
