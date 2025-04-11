@@ -1,3 +1,7 @@
+//9.Build a custom Card widget that has an image, a title, a subtitle, and a description.
+// Ensure it has smooth animations (like hover effect) when tapped. 
+//Use this custom widget in a ListView to display a list of items.
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
