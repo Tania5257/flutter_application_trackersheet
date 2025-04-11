@@ -61,6 +61,11 @@ flutter:
   assets:
     - assets/fonts/SpicyRice-Regular.ttf
     - assets/images/
+    - assets/card_0.jpg
+    - assets/card_1.jpg
+    - assets/card_2.jpg
+    - assets/card_3.jpg
+    - assets/card_4.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
