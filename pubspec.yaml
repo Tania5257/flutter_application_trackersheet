@@ -66,6 +66,7 @@ flutter:
     - assets/card_2.jpg
     - assets/card_3.jpg
     - assets/card_4.jpg
+    - assets/diu_logo.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
